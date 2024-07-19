@@ -1,0 +1,183 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20190801 at Sat Jul 15 17:46:30 2023
+ By Unknown
+</metadata>
+<defs>
+<font id="HiraginoSansGBStd-W4-Generic" horiz-adv-x="1000" vert-adv-y="1000" >
+  <font-face 
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    x-height="550"
+    cap-height="768"
+    bbox="0 -120 1000 880"
+    underline-thickness="50"
+    underline-position="-100"
+    stemh="40"
+    stemv="40"
+    unicode-range="U+2500-254B"
+  />
+<missing-glyph 
+d="M900 860v-960h-800v960h800zM186 808l315 -387l314 387h-629zM848 766l-314 -387l314 -387v774zM814 -48l-313 386l-314 -386h627zM467 379l-315 389v-777z" />
+    <glyph glyph-name=".notdef" 
+d="M900 860v-960h-800v960h800zM186 808l315 -387l314 387h-629zM848 766l-314 -387l314 -387v774zM814 -48l-313 386l-314 -386h627zM467 379l-315 389v-777z" />
+    <glyph glyph-name="GB1.738" unicode="&#x2500;" 
+d="M1000 400v-40h-1000v40h1000z" />
+    <glyph glyph-name="GB1.739" unicode="&#x2501;" 
+d="M1000 440v-120h-1000v120h1000z" />
+    <glyph glyph-name="GB1.740" unicode="&#x2502;" 
+d="M520 880v-1000h-40v1000h40z" />
+    <glyph glyph-name="GB1.741" unicode="&#x2503;" 
+d="M560 880v-1000h-120v1000h120z" />
+    <glyph glyph-name="GB1.742" unicode="&#x2504;" 
+d="M66 360v40h200v-40h-200zM399 360v40h200v-40h-200zM733 360v40h200v-40h-200z" />
+    <glyph glyph-name="GB1.743" unicode="&#x2505;" 
+d="M66 320v120h200v-120h-200zM399 320v120h200v-120h-200zM733 320v120h200v-120h-200z" />
+    <glyph glyph-name="GB1.744" unicode="&#x2506;" 
+d="M480 613v200h40v-200h-40zM480 280v200h40v-200h-40zM480 -54v200h40v-200h-40z" />
+    <glyph glyph-name="GB1.745" unicode="&#x2507;" 
+d="M440 613v200h120v-200h-120zM440 280v200h120v-200h-120zM440 -54v200h120v-200h-120z" />
+    <glyph glyph-name="GB1.746" unicode="&#x2508;" 
+d="M50 360v40h150v-40h-150zM300 360v40h150v-40h-150zM550 360v40h150v-40h-150zM800 360v40h150v-40h-150z" />
+    <glyph glyph-name="GB1.747" unicode="&#x2509;" 
+d="M50 320v120h150v-120h-150zM300 320v120h150v-120h-150zM550 320v120h150v-120h-150zM800 320v120h150v-120h-150z" />
+    <glyph glyph-name="GB1.748" unicode="&#x250a;" 
+d="M480 680v150h40v-150h-40zM480 430v150h40v-150h-40zM480 180v150h40v-150h-40zM480 -70v150h40v-150h-40z" />
+    <glyph glyph-name="GB1.749" unicode="&#x250b;" 
+d="M440 680v150h120v-150h-120zM440 430v150h120v-150h-120zM440 180v150h120v-150h-120zM440 -70v150h120v-150h-120z" />
+    <glyph glyph-name="GB1.750" unicode="&#x250c;" 
+d="M1000 400v-40h-480v-480h-40v520h520z" />
+    <glyph glyph-name="GB1.751" unicode="&#x250d;" 
+d="M1000 440v-120h-480v-440h-40v560h520z" />
+    <glyph glyph-name="GB1.752" unicode="&#x250e;" 
+d="M1000 400v-40h-440v-480h-120v520h560z" />
+    <glyph glyph-name="GB1.753" unicode="&#x250f;" 
+d="M1000 440v-120h-440v-440h-120v560h560z" />
+    <glyph glyph-name="GB1.754" unicode="&#x2510;" 
+d="M520 400v-520h-40v480h-480v40h520z" />
+    <glyph glyph-name="GB1.755" unicode="&#x2511;" 
+d="M520 440v-560h-40v440h-480v120h520z" />
+    <glyph glyph-name="GB1.756" unicode="&#x2512;" 
+d="M560 400v-520h-120v480h-440v40h560z" />
+    <glyph glyph-name="GB1.757" unicode="&#x2513;" 
+d="M560 440v-560h-120v440h-440v120h560z" />
+    <glyph glyph-name="GB1.758" unicode="&#x2514;" 
+d="M520 880v-480h480v-40h-520v520h40z" />
+    <glyph glyph-name="GB1.759" unicode="&#x2515;" 
+d="M520 880v-440h480v-120h-520v560h40z" />
+    <glyph glyph-name="GB1.760" unicode="&#x2516;" 
+d="M560 880v-480h440v-40h-560v520h120z" />
+    <glyph glyph-name="GB1.761" unicode="&#x2517;" 
+d="M560 880v-440h440v-120h-560v560h120z" />
+    <glyph glyph-name="GB1.762" unicode="&#x2518;" 
+d="M480 400v480h40v-520h-520v40h480z" />
+    <glyph glyph-name="GB1.763" unicode="&#x2519;" 
+d="M520 880v-560h-520v120h480v440h40z" />
+    <glyph glyph-name="GB1.764" unicode="&#x251a;" 
+d="M560 880v-520h-560v40h440v480h120z" />
+    <glyph glyph-name="GB1.765" unicode="&#x251b;" 
+d="M440 440v440h120v-560h-560v120h440z" />
+    <glyph glyph-name="GB1.766" unicode="&#x251c;" 
+d="M520 880v-480h480v-40h-480v-480h-40v1000h40z" />
+    <glyph glyph-name="GB1.767" unicode="&#x251d;" 
+d="M520 880v-440h480v-120h-480v-440h-40v1000h40z" />
+    <glyph glyph-name="GB1.768" unicode="&#x251e;" 
+d="M560 880v-480h440v-40h-480v-480h-40v480h-40v520h120z" />
+    <glyph glyph-name="GB1.769" unicode="&#x251f;" 
+d="M520 880v-480h480v-40h-440v-480h-120v520h40v480h40z" />
+    <glyph glyph-name="GB1.770" unicode="&#x2520;" 
+d="M560 880v-480h440v-40h-440v-480h-120v1000h120z" />
+    <glyph glyph-name="GB1.771" unicode="&#x2521;" 
+d="M560 880v-440h440v-120h-480v-440h-40v440h-40v560h120z" />
+    <glyph glyph-name="GB1.772" unicode="&#x2522;" 
+d="M520 880v-440h480v-120h-440v-440h-120v560h40v440h40z" />
+    <glyph glyph-name="GB1.773" unicode="&#x2523;" 
+d="M560 880v-440h440v-120h-440v-440h-120v1000h120z" />
+    <glyph glyph-name="GB1.774" unicode="&#x2524;" 
+d="M520 880v-1000h-40v480h-480v40h480v480h40z" />
+    <glyph glyph-name="GB1.775" unicode="&#x2525;" 
+d="M520 880v-1000h-40v440h-480v120h480v440h40z" />
+    <glyph glyph-name="GB1.776" unicode="&#x2526;" 
+d="M560 880v-520h-39v-479l-41 -1v480h-480v40h440v480h120z" />
+    <glyph glyph-name="GB1.777" unicode="&#x2527;" 
+d="M520 880v-480l41 1l-1 -521h-120v480h-440v40h480v480h40z" />
+    <glyph glyph-name="GB1.778" unicode="&#x2528;" 
+d="M560 880v-1000h-120v480h-440v40h440v480h120z" />
+    <glyph glyph-name="GB1.779" unicode="&#x2529;" 
+d="M560 880v-560h-40v-440h-40v440h-480v120h440v440h120z" />
+    <glyph glyph-name="GB1.780" unicode="&#x252a;" 
+d="M520 880v-440h40v-560h-120v440h-440v120h480v440h40z" />
+    <glyph glyph-name="GB1.781" unicode="&#x252b;" 
+d="M560 880v-1000h-120v440h-440v120h440v440h120z" />
+    <glyph glyph-name="GB1.782" unicode="&#x252c;" 
+d="M1000 400v-40h-480v-480h-40v480h-480v40h1000z" />
+    <glyph glyph-name="GB1.783" unicode="&#x252d;" 
+d="M1000 400v-40h-480v-480h-40v440h-480v120h520v-40h480z" />
+    <glyph glyph-name="GB1.784" unicode="&#x252e;" 
+d="M1000 440v-120h-480v-440h-40v480h-480v40h480v40h520z" />
+    <glyph glyph-name="GB1.785" unicode="&#x252f;" 
+d="M1000 440v-120h-480v-440h-40v440h-480v120h1000z" />
+    <glyph glyph-name="GB1.786" unicode="&#x2530;" 
+d="M1000 400v-40h-440v-480h-120v480h-440v40h1000z" />
+    <glyph glyph-name="GB1.787" unicode="&#x2531;" 
+d="M1000 400v-40h-440v-480h-120v440h-440v120h560v-40h440z" />
+    <glyph glyph-name="GB1.788" unicode="&#x2532;" 
+d="M1000 440v-120h-440v-440h-120v480h-440v40h440v40h560z" />
+    <glyph glyph-name="GB1.789" unicode="&#x2533;" 
+d="M1000 440v-120h-440v-440h-120v440h-440v120h1000z" />
+    <glyph glyph-name="GB1.790" unicode="&#x2534;" 
+d="M520 880v-480h480v-40h-1000v40h480v480h40z" />
+    <glyph glyph-name="GB1.791" unicode="&#x2535;" 
+d="M520 880v-480h480v-40h-480v-40h-520v120h480v440h40z" />
+    <glyph glyph-name="GB1.792" unicode="&#x2536;" 
+d="M520 880v-440h480v-120h-520v40h-480v40h480v480h40z" />
+    <glyph glyph-name="GB1.793" unicode="&#x2537;" 
+d="M520 880v-440h480v-120h-1000v120h480v440h40z" />
+    <glyph glyph-name="GB1.794" unicode="&#x2538;" 
+d="M560 880v-480h440v-40h-1000v40h440v480h120z" />
+    <glyph glyph-name="GB1.795" unicode="&#x2539;" 
+d="M560 880v-480h440v-40h-440v-40h-560v120h440v440h120z" />
+    <glyph glyph-name="GB1.796" unicode="&#x253a;" 
+d="M560 880v-440h440v-120h-560v40h-440v40h440v480h120z" />
+    <glyph glyph-name="GB1.797" unicode="&#x253b;" 
+d="M560 880v-440h440v-120h-1000v120h440v440h120z" />
+    <glyph glyph-name="GB1.798" unicode="&#x253c;" 
+d="M520 880v-480h480v-40h-480v-480h-40v480h-480v40h480v480h40z" />
+    <glyph glyph-name="GB1.799" unicode="&#x253d;" 
+d="M520 880v-480h480v-40h-480v-480h-40v440h-480v120h480v440h40z" />
+    <glyph glyph-name="GB1.800" unicode="&#x253e;" 
+d="M520 880v-440h480v-120h-480v-440h-40v480h-480v40h480v480h40z" />
+    <glyph glyph-name="GB1.801" unicode="&#x253f;" 
+d="M520 880v-440h480v-120h-480v-440h-40v440h-480v120h480v440h40z" />
+    <glyph glyph-name="GB1.802" unicode="&#x2540;" 
+d="M560 880v-480h440v-40h-479l-1 -480h-40l-1 480h-479v40h440v480h120z" />
+    <glyph glyph-name="GB1.803" unicode="&#x2541;" 
+d="M520 880v-479l480 -1v-40h-440v-480h-120v480h-440v40l480 1v479h40z" />
+    <glyph glyph-name="GB1.804" unicode="&#x2542;" 
+d="M560 880v-480h440v-40h-440v-480h-120v480h-440v40h440v480h120z" />
+    <glyph glyph-name="GB1.805" unicode="&#x2543;" 
+d="M560 880v-480h440v-40h-440v-40h-40v-440h-40v440h-480v120h440v440h120z" />
+    <glyph glyph-name="GB1.806" unicode="&#x2544;" 
+d="M560 880v-440h440v-120h-480v-440h-40l-1 440h-39l1 41h-441v39h440v480h120z" />
+    <glyph glyph-name="GB1.807" unicode="&#x2545;" 
+d="M520 880v-440h40v-40h440v-40h-440v-480h-120v440h-440v120h480v440h40z" />
+    <glyph glyph-name="GB1.808" unicode="&#x2546;" 
+d="M520 880v-440h480v-120h-440v-440h-120v480h-440v40h440v40h40v440h40z" />
+    <glyph glyph-name="GB1.809" unicode="&#x2547;" 
+d="M560 880v-440h440v-120h-480v-440h-40v440h-480v120h440v440h120z" />
+    <glyph glyph-name="GB1.810" unicode="&#x2548;" 
+d="M520 880v-440h480v-120h-440v-440h-120v440h-440v120h480v440h40z" />
+    <glyph glyph-name="GB1.811" unicode="&#x2549;" 
+d="M560 880v-480h440v-40h-440v-480h-120v440h-440v120h440v440h120z" />
+    <glyph glyph-name="GB1.812" unicode="&#x254a;" 
+d="M560 880v-440h440v-120h-440v-440h-120v480h-440v40h440v480h120z" />
+    <glyph glyph-name="GB1.813" unicode="&#x254b;" 
+d="M560 880v-440h440v-120h-440v-440h-120v440h-440v120h440v440h120z" />
+  </font>
+</defs></svg>
