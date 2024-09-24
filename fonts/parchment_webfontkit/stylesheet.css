@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family: 'parchmentregular';
+    font-family: 'parchment';
     src: url('parchment-webfont.woff2') format('woff2'),
          url('parchment-webfont.woff') format('woff');
     font-weight: normal;
